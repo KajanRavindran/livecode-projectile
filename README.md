@@ -1,2 +1,2 @@
 # livecode-projectile
-Stuff for class
+Projectile simulation done in C++
